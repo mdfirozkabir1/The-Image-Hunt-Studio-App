@@ -1,0 +1,7 @@
+{
+  "appId": "com.imagehunt.studio",
+  "appName": "Image Hunt",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "backgroundColor": "#0d1321"
+}
